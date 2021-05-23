@@ -22,8 +22,8 @@ available_flag_break = config.available_flag_break
 attempt = config.attempt
 wait_time = config.wait_time
 
-def sendmaill(payload, email):
-    def sendmail(email, body):
+def sendmail(payload, email):
+    def smtp(email, body):
         print("Sending mail to " + email)
         SMTP_USER_NAME = config.SMTP_USER_NAME
         SMTP_PASSWORD = config.SMTP_PASSWORD
@@ -54,7 +54,7 @@ def sendmaill(payload, email):
         return string
     
     body = ulify(payload)
-    sendmail(email, body)
+    smtp(email, body)
 
 for ba in range(attempt):
     date_api.append( (date.today()+timedelta(days=ba)).strftime("%d-%m-%Y") ) 
@@ -87,6 +87,6 @@ def main():
                             isUserNotified = 1
                             available_flag_break = 1
                             break
-                sendmaill(payload, email)       
+                sendmail(payload, email)       
                 print("going to sleep for {} minutes.".format(wait_time/60))
                 time.sleep(wait_time)
