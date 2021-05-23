@@ -69,7 +69,7 @@ Tools that needed to run
 
 ## TODO
 - [x] ~~Setting up a **Flask Application** for presentation purpose.~~
-- [x] ~~Setting up an **Emali Alert **using python SMTP module.~~
+- [x] ~~Setting up an **Emali Alert** using python SMTP module.~~
 - [ ] To add up the **Dose 1** or** Dose 2** parameter in the user details.
 - [ ] Sending an an **SMS (short message service)** Alert to the users.
 - [ ] Scheming up a database to hold user details and data.
