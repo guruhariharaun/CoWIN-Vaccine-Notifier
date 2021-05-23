@@ -7,18 +7,13 @@ CoWIN Vaccine Notifier is a python based alert bot that checks the https://www.c
 
 **NOTE:** This application is only for educational purpose. Should not use it for any Illegal trades, denial of service and I&apos;m not responsible for the future consequences, all the risk should be taken by yourself. Also please consider the current situation happening in the country. People who first and seriously needed are finding it difficult to get a vaccine so please feel curtesy before using this application.
 
-### Deployment
+## Deployment
 **Note:** The application is hosted on heroku's free tier so you can't perform any process. The main aim for the deployment is to show how would the frontend looks like. If you need so then clone the repository from **[here](https://github.com/guruhariharaun "here")**
 
 This Project is [**Live**](https://cowinvaccinenotifierdemo.herokuapp.com/ "**Live**") on: 🌍 **https://cowinvaccinenotifierdemo.herokuapp.com/**
-##API Used In This Application
-
-**Table of Contents:**
-
-[TOCM]
 
 ## Getting Started
-
+## API Used In This Application
 - The application uses the [Co-WIN Public APIs.](https://apisetu.gov.in/public/api/cowin "Co-WIN Public APIs.") These APIs are subject to a rate limit of 100 API calls per 5 minutes per IP. Also, the available data is cached and may be up to 30 minutes old.
 
 - To automate the bot we need the state id and districts ID 
