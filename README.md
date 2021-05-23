@@ -8,7 +8,7 @@ CoWIN Vaccine Notifier is a python based alert bot that checks the https://www.c
 **NOTE:** This application is only for educational purpose. Should not use it for any Illegal trades, denial of service and I&apos;m not responsible for the future consequences, all the risk should be taken by yourself. Also please consider the current situation happening in the country. People who first and seriously needed are finding it difficult to get a vaccine so please feel curtesy before using this application.
 
 ## Deployment
-**Note:** The application is hosted on heroku's free tier so you can't perform any process. The main aim for the deployment is to show how would the frontend looks like. If you need so then clone the repository from **[here](https://github.com/guruhariharaun "here")**
+**Note:** The application is hosted on heroku's free tier so you can't perform any process. The main aim for the deployment is to show how would the frontend looks like. If you need so then clone the repository from **[here](https://github.com/guruhariharaun/CoWIN-Vaccine-Notifier/ "here")**
 
 This Project is [**Live**](https://cowinvaccinenotifierdemo.herokuapp.com/ "**Live**") on: 🌍 **https://cowinvaccinenotifierdemo.herokuapp.com/**
 
@@ -76,7 +76,7 @@ Tools that needed to run
 - [ ] Handling multiple users in the application.
 
 ## License
-The **COWIN Vaccine Notifier** is licensed under the terms of the [MIT license](http://g "MIT license") and is available for free.
+The **COWIN Vaccine Notifier** is licensed under the terms of the [MIT license](https://github.com/guruhariharaun/CoWIN-Vaccine-Notifier/blob/main/LICENSE "MIT license") and is available for free.
 
 ## Acknowledgement
 - Appreciating Indian Govt for providing Open APIs via [APISetu.](https://apisetu.gov.in/ "APISetu")
