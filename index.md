@@ -44,16 +44,16 @@ Tools that needed to run
 - Before you start to run the application you should need to update the configuration file which is on the `config.py` file.
 
 ### User Details File Modification
-| Variables | User Details | Instructions |
-| ------------ |---------------|-----|
-| uname      | Guru HariHaraun | Enter Your **Name** Here |
-| email      | guruhari@abcd.com |Enter Your **Email** Here |
-| district_id | 560 |The **506** is the district code for trichy. You can fetch your district id from http://127.0.0.1:6060/id page |
-| vaccine_type | COVISHIELD | Either user **COVISHIED**  or **COVAXIN** All should be in **UPPERCASE** |
-| fee_type | Free | The fee type should be **Paid** or **Free** All should be in **UPPERCASE** |
-| age_limit | 21 | Enter Your **Age** Here |
-| atempt    | 3   | Number of days the application should periodically check |
-| wait_time | 300 |The number of seconds the bot needs to check. ***Note: **The APIs are subject to a **rate limit** of **100 API calls per 5 minutes per IP*** |
+| Variables 	| User Details 		| Instructions |
+| ------------ 	|---------------	|-----|
+| uname      	| Guru HariHaraun	| Enter Your **Name** Here |
+| email      	| guruhari@abcd.com	|Enter Your **Email** Here |
+| district_id 	| 560 			|The **506** is the district code for trichy. You can fetch your district id from http://127.0.0.1:6060/id page |
+| vaccine_type 	| COVISHIELD 		| Either user **COVISHIED**  or **COVAXIN** All should be in **UPPERCASE** |
+| fee_type 	| Free 			| The fee type should be **Paid** or **Free** All should be in **UPPERCASE** |
+| age_limit 	| 21 			| Enter Your **Age** Here |
+| atempt    	| 3   			| Number of days the application should periodically check |
+| wait_time 	| 300 			|The number of seconds the bot needs to check. |
 
 ### Setting Up a SMTP User Configuration 
 - In this application the SMTP server was Gmail&apos;s SMPT Server. Can be changed according to your prefered SMTP Server and port number.
