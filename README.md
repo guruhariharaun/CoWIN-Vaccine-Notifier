@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://ik.imagekit.io/guruhariharaun/github/CoWIN_Vaccine_Notifier/header.png" alt="CoWIN Vaccine Notifier" width ="500"/>
+  <img src="https://ik.imagekit.io/guruhariharaun/github/CoWIN_Vaccine_Notifier/header.png" alt="CoWIN Vaccine Notifier" width ="500"/><br>
 CoWIN Vaccine Notifier
 </h1>
 
